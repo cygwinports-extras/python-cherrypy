@@ -1,6 +1,0 @@
-ORIG_PN="CherryPy"
-inherit distutils
-
-DESCRIPTION="Python web application framework"
-HOMEPAGE="http://www.cherrypy.org/"
-SRC_URI="http://download.cherrypy.org/cherrypy/${PV}/${ORIG_PN}-${PV}.tar.gz"
